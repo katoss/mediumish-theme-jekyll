@@ -5,7 +5,7 @@ description: "Welcome to this collection of best practices to build great sites 
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-url: 'https://katoss.github.io/'
+url: 'https://katoss.github.io'
 google_analytics: ''
 disqus: 'demowebsite'
 mailchimp-list: ''
