@@ -1,9 +1,4 @@
----
-layout: default
-title: Home
----
-
-<!-- Posts Index
+I"b<!-- Posts Index
 ================================================== -->
 <section class="recent-posts">
 
@@ -34,3 +29,4 @@ title: Home
 </span>
 </div>
 
+:ET
